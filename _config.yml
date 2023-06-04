@@ -1,8 +1,8 @@
-title: "Markdown Guide"
-url: https://www.markdownguide.org # site url
+title: "Encode Reference"
+url: https://federicoaurora.github.io/Encode_referenc/ # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
 
-repo: https://github.com/mattcone/markdown-guide
+repo: https://github.com/federicoaurora/Encode_referenc
 comments: false
 
 plugins:
@@ -32,7 +32,7 @@ destination: ./_site
 
 # Author settings
 author:
-  name     : "Matt Cone"
+  name     : "Federico Aurora"
 
 # social settings
 og_locale: "en_US"
